@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          오늘이 마지막인것처럼
         </a>
       </header>
     </div>
